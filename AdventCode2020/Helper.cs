@@ -14,13 +14,18 @@ namespace AdventCode2020
         {
             List<string> input;
 
-            input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem1.txt");
-            Console.WriteLine(Problem1.part1(input));
-            Console.WriteLine(Problem1.part2(input));
+            //input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem1.txt");
+            //Console.WriteLine(Problem1.part1(input));
+            //Console.WriteLine(Problem1.part2(input));
 
-            input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem2.txt");
-            Console.WriteLine(Problem2.part1(input));
-            Console.WriteLine(Problem2.part2(input));
+            //input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem2.txt");
+            //Console.WriteLine(Problem2.part1(input));
+            //Console.WriteLine(Problem2.part2(input));
+            //Console.Read();
+
+            input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem3.txt");
+            Console.WriteLine(Problem3.part1(input));
+            Console.WriteLine(Problem3.part2(input));
             Console.Read();
 
         }
