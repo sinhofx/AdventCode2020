@@ -6,8 +6,6 @@ namespace AdventCode2020
 {
     class Problem5
     {
-        const int MAX_ROW = 127;
-        const int MAX_COL = 7;
         public static int part1(List<string> input)
         {
             string binRow;
