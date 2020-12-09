@@ -38,9 +38,13 @@ namespace AdventCode2020
             //Console.WriteLine(Problem6.part1(input));
             //Console.WriteLine(Problem6.part2(input));
 
-            input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem7.txt");
-            Console.WriteLine(Problem7.part1(input));
-            Console.WriteLine(Problem7.part2(input));
+            //input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem7.txt");
+            //Console.WriteLine(Problem7.part1(input));
+            //Console.WriteLine(Problem7.part2(input));
+
+            input = Helper.Input("D:\\Code\\cs\\AdventCode2020\\AdventCode2020\\input\\problem8.txt");
+            Console.WriteLine(Problem8.part1(input));
+            Console.WriteLine(Problem8.part2(input));
 
             Console.Read();
 
